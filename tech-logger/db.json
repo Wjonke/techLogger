@@ -2,31 +2,31 @@
   "logs": [
     {
       "id": 1,
-      "message": "Test",
+      "message": "Test Message",
       "attention": true,
-      "date": "01-01-2020",
-      "tech": "Wes Jonke"
+      "dateCreated": "01-01-2020",
+      "techAssigned": "Wes Jonke"
     },
     {
       "id": 1,
-      "message": "Test",
+      "message": "Test Message 2",
       "attention": true,
-      "date": "01-01-2020",
-      "tech": "Wes Jonke"
+      "dateCreated": "01-02-2020",
+      "techAssigned": "Wes Jonke"
     },
     {
       "id": 1,
-      "message": "Test",
+      "message": "Test message 3",
       "attention": true,
-      "date": "01-01-2020",
-      "tech": "Wes Jonke"
+      "dateCreated": "01-03-2020",
+      "techAssigned": "Wes Jonke"
     },
     {
       "id": 1,
-      "message": "Test",
+      "message": "Test message 4",
       "attention": true,
-      "date": "01-01-2020",
-      "tech": "Wes Jonke"
+      "dateCreated": "01-04-2020",
+      "techAssigned": "Wes Jonke"
     }
   ],
   "techs": [
@@ -34,7 +34,7 @@
       "id": 1,
       "first_name": "Wes",
       "last_name": "Jonke",
-      "hire_date": "01-01-2020",
+      "hire_date": "01-0-2020",
       "dept": "IT"
     },
     {
