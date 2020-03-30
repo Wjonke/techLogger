@@ -8,21 +8,21 @@
       "techAssigned": "Wes Jonke"
     },
     {
-      "id": 1,
+      "id": 2,
       "message": "Test Message 2",
       "attention": true,
       "dateCreated": "01-02-2020",
       "techAssigned": "Wes Jonke"
     },
     {
-      "id": 1,
+      "id": 3,
       "message": "Test message 3",
       "attention": true,
       "dateCreated": "01-03-2020",
       "techAssigned": "Wes Jonke"
     },
     {
-      "id": 1,
+      "id": 4,
       "message": "Test message 4",
       "attention": true,
       "dateCreated": "01-04-2020",
