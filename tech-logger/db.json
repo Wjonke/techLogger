@@ -1,0 +1,63 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Test Message",
+      "attention": true,
+      "date": "01-01-2020",
+      "techAssigned": "Wes Jonke"
+    },
+    {
+      "id": 2,
+      "message": "Test Message 2",
+      "attention": false,
+      "date": "01-02-2020",
+      "techAssigned": "Wes Jonke"
+    },
+    {
+      "id": 3,
+
+      "message": "Test message 3",
+      "attention": true,
+      "date": "01-03-2020",
+      "techAssigned": "Wes Jonke"
+    },
+    {
+      "id": 4,
+      "message": "Test message 4",
+      "attention": false,
+      "date": "01-04-2020",
+      "techAssigned": "Wes Jonke"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "first_name": "Wes",
+      "last_name": "Jonke",
+      "hire_date": "01-0-2020",
+      "dept": "IT"
+    },
+    {
+      "id": 2,
+      "first_name": "Sam",
+      "last_name": "Smith",
+      "hire_date": "01-01-2020",
+      "dept": "IT"
+    },
+    {
+      "id": 3,
+      "first_name": "John ",
+      "last_name": "Doe",
+      "hire_date": "01-01-2020",
+      "dept": "Maintenance"
+    },
+    {
+      "id": 4,
+      "first_name": "Jane",
+      "last_name": "Doe",
+      "hire_date": "01-01-2020",
+      "dept": "Maintenance"
+    }
+  ]
+}
